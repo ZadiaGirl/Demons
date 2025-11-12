@@ -1,3 +1,0 @@
-#job 
-- [ ] Investigate the [[Explosion In Ohlsdorf|explosion]] in [[Ohlsdorf|Ohlsdorf]]  
-- [ ] Close the [[Close the portal in Ohlsdorf|portal]] in [[Ohlsdorf]] 
